@@ -36,6 +36,8 @@ Run docker image
 docker container run studyabroaddocker
 ```
 
+[Docker Image File](https://drive.google.com/file/d/1K2MALbFI9kSP5K52nuLGTovJYKi8bkRa/view?usp=sharing)
+
 To test the mobile app
 
 install the `StudyAbroadApp.apk` on any Android device.
